@@ -175,6 +175,10 @@ section {
     color:#444;
 }
 
+#section4 .container {
+    height: 100%;
+}
+
 #section5 {
     background-color: #1e54a5;
     color: #f6f6f6;
